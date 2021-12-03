@@ -59,6 +59,7 @@ header a:hover, form button:hover {
 
 .frame > h1 {
     margin: 0 0 0.5rem;
+    text-align: center;
 }
 
 form input, form button {
